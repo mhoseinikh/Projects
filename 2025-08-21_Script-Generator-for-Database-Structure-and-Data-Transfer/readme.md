@@ -69,6 +69,7 @@ The main focus was to **automatically generate scripts** for database objects an
 Below is a **simplified example** (PL/SQL) showing how the **dependency graph** was built for Oracle objects:
 
 [Create dependency graph Script - Oracle](./scripts/Filling-objects-graph.sql)
+
 [SP to create powershell script to use SMO-SQL Server](./scripts/GENSCRIPT.USP_MAKE_POWERSHELL_SCRIPT.sql)
 
 ---
