@@ -19,7 +19,7 @@ Each project folder contains:
   - Built dependency graph of objects (tables, views, packages, …)  
   - Handled large data types (CLOB/BLOB)  
   - Supported batching for huge tables  
-- [📂 Project Folder](./ScriptGenerator)
+- [📂 Project Folder](./2025-08-21_Script-Generator-for-Database-Structure-and-Data-Transfer)
 
 ---
 
