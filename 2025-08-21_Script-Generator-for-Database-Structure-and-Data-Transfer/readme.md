@@ -70,7 +70,7 @@ Below is a **simplified example** (PL/SQL) showing how the **dependency graph** 
 
 [Create dependency graph Script - Oracle](./scripts/Filling-objects-graph.sql)
 
-[SP to create powershell script to use SMO-SQL Server](./scripts/GENSCRIPT.USP_MAKE_POWERSHELL_SCRIPT.sql)
+[SP to create powershell script to use SMO - SQL Server](./scripts/GENSCRIPT.USP_MAKE_POWERSHELL_SCRIPT.sql)
 
 ---
 
